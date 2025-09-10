@@ -1,7 +1,8 @@
 function GallerySection(){
-    return(
+    return (
+
         <>
         </>
-    )
+    );
 }
 export default GallerySection;
