@@ -5,6 +5,7 @@ import FeatureCard from "./components/FaetureCard.jsx";
 import TestimonialSection from "./components/TestimonialSection.jsx";
 import TestimonialCard from "./components/TestimonialCard.jsx";
 import SecondaryCTA from "./components/SecondaryCTA.jsx";
+import Footer from "./components/Footer.jsx";
 
 function App(){
     return(
@@ -16,6 +17,7 @@ function App(){
             <TestimonialSection/>
             <TestimonialCard/>
             <SecondaryCTA/>
+            <Footer/>
         </>
     )
 }
