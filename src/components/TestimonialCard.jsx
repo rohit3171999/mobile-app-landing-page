@@ -1,7 +1,7 @@
 function TestimonialCard() {
-    return(
-        <>
-        </>
+    return (
+        <></>
     )
 }
+
 export default TestimonialCard;
